@@ -1,0 +1,19 @@
+{
+  "name": "node-express-boilerplate",
+  "description": "node-boilerplate",
+  "version": "0.1.0",
+  "main": "server",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "aws-sdk": "2.x",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.10.6"
+  },
+  "author": {
+    "name": "sonipandey",
+    "email": "sonipandey.71@gmail.com"
+  }
+}
